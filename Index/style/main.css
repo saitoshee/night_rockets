@@ -1,11 +1,36 @@
 
 
-        body{
-                margin: 0px;
-                padding:0px; 
-                background-image:url(../images/bg.png);
-            }
+body{
+        margin: 0px;
+        padding:0px; 
+        background-image:url(../images/bg.png);
+}
 
 h1{
-    text-align: center;
+        text-align: center;
+}
+.logo
+{
+    padding: 20px 40px;
+}
+
+nav{    
+}
+
+nav li{
+        list-style: none;
+        display: inline-block;
+        
+}
+nav a{
+        color: #000;
+        text-decoration: none;
+        font-family: 'Titillium Web', sans-serif;
+        font-size: 20px;
+        color: #ececec;
+        text-shadow: 0px 3px 2px #001a1d;
+}
+nav ul{ 
+
+        
 }
